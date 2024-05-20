@@ -58,6 +58,10 @@ Da soporte a sistemas operativos Windows y Android y en cuanto a lenguaje inglé
 <br>
 ### *Enlace de descarga*
 Puedes acceder a la descarga de CPU-Z desde [aquí](https://www.cpuid.com/softwares/cpu-z.html)
+<br>
+<br>
+### *Video de CPU-Z*
+[![Alt text](https://img.youtube.com/vi/oKY9jL9UPLU/0.jpg)](https://www.youtube.com/watch?v=oKY9jL9UPLU)
 
 
 
