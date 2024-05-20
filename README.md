@@ -10,7 +10,8 @@
 <br>
 
 ### *Herramientas usadas*
-![Static Badge](https://img.shields.io/badge/CPUZ-red?style=for-the-badge&logo=orcid&logoColor=white&labelColor=black&color=purple) ![Static Badge](https://img.shields.io/badge/HDTach-blue?style=for-the-badge&logo=gradleplaypublisher&logoColor=white&labelColor=black&color=blue) ![Static Badge](https://img.shields.io/badge/RecoverIt-darkblue?style=for-the-badge&logo=Wondershare&logoColor=white&labelColor=black&color=darkblue) ![Static Badge](https://img.shields.io/badge/4winkey-green?style=for-the-badge&logo=keycdn&logoColor=white&labelColor=black&color=green)
+![Static Badge](https://img.shields.io/badge/CPUZ-red?style=for-the-badge&logo=orcid&logoColor=white&labelColor=black&color=purple) ![Static Badge](https://img.shields.io/badge/HDTach-blue?style=for-the-badge&logo=gradleplaypublisher&logoColor=white&labelColor=black&color=blue) ![Static Badge](https://img.shields.io/badge/RecoverIt-darkblue?style=for-the-badge&logo=Wondershare&logoColor=white&labelColor=black&color=darkblue) ![Static Badge](https://img.shields.io/badge/4winkey-green?style=for-the-badge&logo=keycdn&logoColor=white&labelColor=black&color=green) ![Static Badge](https://img.shields.io/badge/OpenmediaVault-blue?style=for-the-badge&logo=serverfault&logoColor=white&labelColor=black&color=%235DACDF)
+
 <br>
 <br>
 
@@ -129,7 +130,7 @@ Puedes acceder a la descarga de 4WinKey desde [aquí](https://www.passfab.es/pro
 
 ![Static Badge](https://img.shields.io/badge/Quinta-Herramienta-green?style=for-the-badge&labelColor=black&color=green)
 
-<a name="id4">**_Openmediavault_**</a>
+<a name="id5">**_Openmediavault_**</a>
 <br>
 ### *Descripción del programa* 📖
 Openmediavault es la solución NAS de próxima generación basada en Debian Linux. Contiene servicios como SSH, (S)FTP, SMB/CIFS, RSync y muchos más listos para usar.  
