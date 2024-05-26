@@ -104,6 +104,7 @@ Puedes acceder a la descarga de RecoverIt desde [aquí](https://recoverit.wonder
 ### *Video de RecoverIt* 🎥
 <details>
 
+[![Alt text](https://img.youtube.com/vi/mzMXvXspE9U/0.jpg)](https://www.youtube.com/watch?v=mzMXvXspE9U)
 </details>
 <br>
 <br>
