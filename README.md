@@ -71,19 +71,20 @@ Puedes acceder a la descarga de CPU-Z desde [aquí](https://www.cpuid.com/softwa
 
 ![Static Badge](https://img.shields.io/badge/Segunda-Herramienta-green?style=for-the-badge&labelColor=black&color=green)
 
-<a name="id2">**_HDTach_**</a>
+<a name="id2">**_DiskCheckUp_**</a>
 <br>
 ### *Descripción del programa* 📖
-HDTach utiliza una prueba de rendimiento físico de disco duro que emplea un controlador especial en modo kernel VXD para obtener la máxima precisión al evitar el sistema de archivos.
+PassMark DiskCheckup permite al usuario monitorear los atributos SMART de un disco duro específico. SMART (Tecnología de Análisis y Reporte de Auto-Monitoreo) es una característica en el disco duro de un pc que proporciona varios indicadores de monitoreo de la confiabilidad del disco.
 <br>
 <br>
 ### *Enlace de descarga* ⬇️
-Puedes acceder a la descarga de HDTach desde [aquí](https://www.techspot.com/downloads/6714-hdtach.html)
+Puedes acceder a la descarga de HDTach desde [aquí](https://www.passmark.com/products/diskcheckup/)
 <br>
 <br>
-### *Video de HDTach* 🎥
+### *Video de DiskCheckUp* 🎥 
 <details>
 
+ [![Alt text](https://img.youtube.com/vi/98ixoMSmdoE/0.jpg)](https://www.youtube.com/watch?v=98ixoMSmdoE)
 </details>
 <br>
 <br>
